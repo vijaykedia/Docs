@@ -36,6 +36,12 @@
 
 - **Install Bitdefender** - Bitdefender is a security application designed to protect your system from malware, viruses, and other threats. To get started, log in [here](https://central.bitdefender.com) and install the protection suite on your device.
 
+- **Install Dropbox** - Dropbox is a cloud storage application that helps you manage and sync files across devices. You can download and install it from [here](https://www.dropbox.com/install).
+
+- **Install Microsoft Copilot** - Microsoft Copilot is a generative AI application designed to enhance productivity by integrating intelligent assistance into Microsoft 365 apps and services. Download it from [here](https://www.microsoft.com/en-us/microsoft-365/copilot/download-copilot-app).
+
+- **Install Google Drive** - Google Drive is a cloud storage application that helps you manage and sync files across devices. You can download and install it from [here](https://dl.google.com/drive-file-stream/GoogleDrive.dmg).
+
 ## Developer Tool
 
 - **Configure iTerm2** - If you prefer to change the default theme, you can install [`this`](./Snazzy.itermcolors) by following below instructions.
